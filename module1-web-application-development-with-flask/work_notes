@@ -1,0 +1,12 @@
+- What went well (in the context of working on the assignment) today?
+I follow along well. Everything was straight forward. 
+    a. do not add extension on window terminal or in python file.
+        for example. set FLASK_APP= hello.py does not work but FLASK_APP=hello works.
+        in hello app, <hello.html> does not work, but <hello> works just the file name. on window.
+        
+
+- What was particularly interesting or surprising about the topic(s) today?
+I feel like the more method you know about these programs, the easier it is to do 
+run your website.
+- What was the most challenging part of the work today, and why?
+Finding out how to use these method is difficults.
